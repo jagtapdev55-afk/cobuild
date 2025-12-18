@@ -1,11 +1,9 @@
 # 🏗️ Cobuild - Modern Construction Landing Page
 
-Cobuild is a sleek, responsive landing page designed for a high-end construction and architectural firm. This project was built to practice integrating Bootstrap 5 with custom CSS3 styling to create a professional user experience.
+ ### Cobuild is a sleek, responsive landing page designed for a high-end construction and architectural firm. This project was built to practice integrating Bootstrap 5 with custom CSS3 styling to create a professional user experience.
 
-🚀 Live Demo
-(Optional: Add your GitHub Pages link here)
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 HTML5: Semantic structure for SEO and accessibility.
 
 CSS3: Custom layout design, hero section styling, and interactive hover states.
@@ -14,7 +12,8 @@ Bootstrap 5: Utilized for the responsive grid system, navigation, and progress b
 
 Google Fonts: Integrated 'Inter' font for a modern, clean look.
 
-✨ Key Features
+
+## ✨ Key Features
 Responsive Navigation: A fixed-top navbar that collapses into a mobile-friendly menu.
 
 Hero Section: A high-impact, full-screen visual entrance with a call-to-action.
@@ -27,14 +26,18 @@ Custom Branding: Overridden Bootstrap defaults with a custom "Warning Yellow" (#
 
 Testimonials: Clean, card-based layout for client feedback.
 
-📂 Project Structure
+
+## 📂 Project Structure
 Plaintext
 
 ├── img/             # Images and logos
+
 ├── index.html       # Main website structure
+
 └── style.css        # Custom style overrides and hero layout
 
-🎯 Learning Objectives
+
+## 🎯 Learning Objectives
 During this "just for fun" build, I focused on:
 
 Framework Overrides: Learning how to change Bootstrap's default button colors and borders.

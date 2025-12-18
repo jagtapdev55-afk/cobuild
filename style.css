@@ -1,0 +1,40 @@
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #fff;
+  color: #333;
+}
+
+/* Hero section */
+.hero {
+  background: url('img/hero.jpeg') no-repeat center center/cover;
+  height: 100vh;
+  padding-top: 80px;
+}
+
+.hero h1 {
+  color: #fff;
+}
+
+.hero p {
+  color: #f0f0f0;
+}
+
+/* Labels */
+label {
+  font-weight: 500;
+}
+
+/* Buttons */
+.btn-warning {
+  background-color: #f9b000;
+  border: none;
+}
+
+.btn-warning:hover {
+  background-color: #e3a200;
+}
+
+/* Footer */
+footer p {
+  font-size: 0.9rem;
+}
